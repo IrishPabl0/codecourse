@@ -1,0 +1,6 @@
+
+print ("password")
+
+
+print("password").txt
+op
