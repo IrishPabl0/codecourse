@@ -1,17 +1,7 @@
-import 'random'
 
 print("Hello World")
 
 print ("goodbye")
 
 
-<<<<<<< HEAD
 print("bye Potato")
-
-
-print("bye pablo")
-
-print (random.number)
-=======
-print("bye Potato")
->>>>>>> parent of e7e6d8e (Update yes)
