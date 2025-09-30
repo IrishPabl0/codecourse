@@ -1,0 +1,3 @@
+.gitignore
+
+print("password").txt
