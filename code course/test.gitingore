@@ -1,4 +1,3 @@
 
-print("password")
-again # type: ignore
-print("idk")
+print("password").txt
+again
